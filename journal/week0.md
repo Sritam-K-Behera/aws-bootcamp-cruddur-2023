@@ -9,3 +9,4 @@ code
 ```
 
 ## Homework Challenges
+![image](/assets/week0CruddurConceptualDiagram.png)
