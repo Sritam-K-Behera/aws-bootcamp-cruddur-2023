@@ -9,4 +9,5 @@ code
 ```
 
 ## Homework Challenges
+creating cdiagram using lucidchart
 ![image](/assets/week0CruddurConceptualDiagram.png)
